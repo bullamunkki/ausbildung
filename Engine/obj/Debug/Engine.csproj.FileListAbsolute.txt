@@ -1,0 +1,6 @@
+C:\Users\ismet\source\repos\Engine\bin\Debug\Engine.dll
+C:\Users\ismet\source\repos\Engine\bin\Debug\Engine.pdb
+C:\Users\ismet\source\repos\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\ismet\source\repos\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\ismet\source\repos\Engine\obj\Debug\Engine.dll
+C:\Users\ismet\source\repos\Engine\obj\Debug\Engine.pdb
